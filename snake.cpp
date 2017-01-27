@@ -579,6 +579,8 @@ public:
         XFillRectangle(xinfo.display, xinfo.window, xinfo.gc[5], 375, 293, 6, 6);
         XFillRectangle(xinfo.display, xinfo.window, xinfo.gc[2], 382, 296, 4, 5);
         XDrawString(xinfo.display, xinfo.window, xinfo.gc[2], 350, 450, "PRESS SPACE TO PLAY", 19); //text
+        XDrawString(xinfo.display, xinfo.window, xinfo.gc[2], 280, 490, "Eat the Fruit and Avoid Biting Yourself", 39); //text
+        XDrawString(xinfo.display, xinfo.window, xinfo.gc[2], 320, 500, "Use WASD or Arrow Keys to Move", 30); //text
         XDrawString(xinfo.display, xinfo.window, xinfo.gc[2], 10, 590, "Created by: k4su (KeFei Su)", 27);
         XDrawString(xinfo.display, xinfo.window, xinfo.gc[2], 675, 590, "Student ID: 20613990", 20);
         XDrawString(xinfo.display, xinfo.window, xinfo.gc[4], 275, 175, "SNAKE", 5); // title
