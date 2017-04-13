@@ -34,3 +34,8 @@ The length of the snake is displayed in the upper left corner (length is synonym
 The speed and FPS are displayed in the bottom left corner
 
 The snake grows by a length of 5 everytime a fruit is eaten.
+
+# ScreenShots
+
+![Screen1](http://i.imgur.com/Y5dGOY1.png?1 "Screen1")
+![Screen2](http://i.imgur.com/Y31D8qi.png?1 "Screen2")
